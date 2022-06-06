@@ -1,0 +1,47 @@
+
+.main{
+    border:2px solid green;
+    width:620px;
+    margin:auto;
+    margin-top: 100px;
+    padding: 40px;
+    overflow-x: scroll;
+}
+
+#heading{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+
+#star{
+    color:red;
+}
+
+
+.fa{
+    color:orangered
+}
+
+td{
+    padding-top: 10px;
+}
+
+th{
+    padding-right: 20px;
+}
+
+.width{
+    width:400px;
+}
+
+textarea{
+    width:650px;
+    height:50px;
+
+}
+
+.radio{
+    margin-left: 30px;
+}
